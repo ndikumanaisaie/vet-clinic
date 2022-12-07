@@ -17,3 +17,8 @@ CREATE TABLE owners(
   full_name TEXT,
   age INT 
 )
+
+CREATE TABLE species(
+  id SERIAL PRIMARY KEY,
+  name TEXT
+)
