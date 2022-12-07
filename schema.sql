@@ -6,6 +6,6 @@ CREATE TABLE Animals (
 	name TEXT,
 	Date_of_birth DATE,
 	escape_attempts INT,
-	neutered BIT,
+	neutered BOOLEAN,
 	weight_kg REAL
 );
