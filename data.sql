@@ -13,3 +13,7 @@ VALUES
 (9, 'Boarmon', '2005-06-07', 7, TRUE, 20.4),
 (10, 'Blossom', '1998-10-13', 3, TRUE, 17),
 (11, 'Ditto', '2022-5-14', 4, TRUE, 22);
+
+INSERT INTO owners (full_name,age) VALUES ('Sam Smith', 34), ('Jennifer Orwell', 19), ('Bob', 45), ('Melody', 77), ('Dean Winchester', 14), ('Jodie Whittaker', 38);
+
+INSERT INTO species (name) VALUES ('Pokemon'), ('Digimon');
