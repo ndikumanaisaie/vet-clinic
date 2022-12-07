@@ -9,3 +9,5 @@ CREATE TABLE Animals (
 	neutered BOOLEAN,
 	weight_kg REAL
 );
+
+ALTER TABLE animals ADD spicies TEXT;
