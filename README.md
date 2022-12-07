@@ -4,9 +4,6 @@
 
 > "vet-clinic" is a datastructure for vet clinic database
 
-## Below is the screenshot of my work
-![tour](https://github.com/ndikumanaisaie/math-magician/blob/develop/src/images/shot.png)
-
 ## Built with
 - postgresql
 - gitflow
@@ -20,7 +17,7 @@
 - LinkedIn: [Ndikumana Isaie](https://www.linkedin.com/in/ndikumanaisaie/)
 
 ## Link to URL on gitHub
-- [math-magicial](https://github.com/ndikumanaisaie/vet-clinic.git)
+- [vet-clinic](https://github.com/ndikumanaisaie/vet-clinic.git)
 
 ## Getting Started
 
