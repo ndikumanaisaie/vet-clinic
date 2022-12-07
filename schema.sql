@@ -10,4 +10,4 @@ CREATE TABLE Animals (
 	weight_kg REAL
 );
 
-ALTER TABLE animals ADD spicies TEXT;
+ALTER TABLE animals ADD species TEXT;
