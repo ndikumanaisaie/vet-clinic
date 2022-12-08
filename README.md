@@ -25,18 +25,12 @@ To get a local copy up and running follow these simple example steps.
 
 ## Setup
 clone: run `git clone https://github.com/ndikumanaisaie/vet-clinic.git`
-Move to cloned folder: run git cd Tour.
+Move to cloned folder: run git cd vet-clinic.
 
 ## Install
-
-To Install the dependencies locally: run `npm install`.
-To Build your app: run `npm run build`.
-To Deploy to local server: run `npm start build`.
-
+no installation required
 ## Testing
-
-Use the command `npm test` as it is show on screenshot.png
-
+no testing
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
