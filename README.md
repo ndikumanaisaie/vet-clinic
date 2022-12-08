@@ -2,7 +2,7 @@
 
 ## vet-clinic
 
-> "vet-clinic" is a datastructure for vet clinic database
+> "vet-clinic" Vet clinic database is a project about using a relational database to create the data structure for a vet clinic. Starting with one table, and step by step will create a complete database with data about animals, animals' owners animals' species and many more.
 
 ## Built with
 - postgresql
@@ -24,13 +24,17 @@
 To get a local copy up and running follow these simple example steps.
 
 ## Setup
-clone: run `git clone https://github.com/ndikumanaisaie/vet-clinic.git`
-Move to cloned folder: run git cd vet-clinic.
+- clone: run `git clone https://github.com/ndikumanaisaie/vet-clinic.git` .
+- To move to cloned folder: run `cd vet-clinic`.
 
 ## Install
-no installation required
+
+No installation required
+
 ## Testing
-no testing
+
+No testing
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -43,7 +47,7 @@ Give a ⭐️ if you like this project!
 
 - Hat tip to react team
 - Microverse staff
-- Myfamily
+- My family
 
 ## 📝 License
 
