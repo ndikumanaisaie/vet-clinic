@@ -1,6 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 ## vet-clinic
+![vet-clinic](https://github.com/ndikumanaisaie/vet-clinic/blob/develop/vet_clinic.PNG)
 
 > "vet-clinic" Vet clinic database is a project about using a relational database to create the data structure for a vet clinic. Starting with one table, and step by step will create a complete database with data about animals, animals' owners animals' species and many more.
 
